@@ -28,7 +28,7 @@ read -s PRIVATE_KEY
 # 1. Clone the Repository
 echo "Cloning the repository..."
 git clone https://github.com/SAURABHMISHRA55/ThoughtVerse-Content-Sharing-Platform.git
-cd thoughtVerse
+cd ThoughtVerse-Content-Sharing-Platform
 
 # 2. Install Dependencies
 echo "Installing dependencies..."
