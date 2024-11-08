@@ -31,7 +31,7 @@ In your terminal, clone this repository and navigate to the project directory:
 
 ```bash
 git clone https://github.com/SAURABHMISHRA55/ThoughtVerse-Content-Sharing-Platform.git
-cd thoughts-verse-platform
+cd ThoughtVerse-Content-Sharing-Platform
 ```
 
 ### 2. Install Dependencies
@@ -115,7 +115,7 @@ npm start
 
    ```bash
    git clone git clone https://github.com/SAURABHMISHRA55/ThoughtVerse-Content-Sharing-Platform.git
-   cd thoughts-verse-platform
+   cd ThoughtVerse-Content-Sharing-Platform
    ```
 
 2. Install dependencies:
